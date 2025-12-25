@@ -1,0 +1,71 @@
+[
+  {
+    "id": "678a13c0-8fdd-44ca-aac7-3b8adb143be2",
+    "name": "OpenZeppelin",
+    "logo_url": "/images/operators/openzeppelin-logo.png",
+    "website_url": "https://www.openzeppelin.com/",
+    "gradient": "from-primary/20 via-primary/10 to-transparent",
+    "display_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "b11ba091-7033-48d9-9d4d-1356a71cc143",
+    "name": "LayerZero Core",
+    "logo_url": "/images/operators/layerzero-logo.jpeg",
+    "website_url": "https://layerzero.network/",
+    "gradient": "from-accent/20 via-accent/10 to-transparent",
+    "display_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "ae1571fa-1779-4edb-a17e-8afbc465ac70",
+    "name": "Stake Capital",
+    "logo_url": "/images/operators/stakecapital-logo.jpeg",
+    "website_url": "https://www.stake.capital/",
+    "gradient": "from-primary/20 via-primary/10 to-transparent",
+    "display_order": 3,
+    "is_active": true
+  },
+  {
+    "id": "766b8ecc-62c7-4cae-83d2-014d1a1da31a",
+    "name": "Luganodes",
+    "gradient": "from-accent/20 via-accent/10 to-transparent",
+    "display_order": 4,
+    "is_active": true
+  },
+  {
+    "id": "b9ddeb2f-fb9e-4c45-892b-e7b290d0dd54",
+    "name": "P2P",
+    "gradient": "from-primary/20 via-primary/10 to-transparent",
+    "display_order": 5,
+    "is_active": true
+  },
+  {
+    "id": "8007cdbc-62bd-4202-9773-48b8c073bc52",
+    "name": "Blockscape",
+    "gradient": "from-accent/20 via-accent/10 to-transparent",
+    "display_order": 6,
+    "is_active": true
+  },
+  {
+    "id": "c0b97f4b-7fa4-478a-88bb-966bfae804a1",
+    "name": "INFStones",
+    "gradient": "from-primary/20 via-primary/10 to-transparent",
+    "display_order": 7,
+    "is_active": true
+  },
+  {
+    "id": "48ed6e44-47bc-416b-8f16-a790d8d8b4a1",
+    "name": "Omakase",
+    "gradient": "from-accent/20 via-accent/10 to-transparent",
+    "display_order": 8,
+    "is_active": true
+  },
+  {
+    "id": "81252ebb-9162-4bab-a72f-bc39c60fc213",
+    "name": "DFNS",
+    "gradient": "from-primary/20 via-primary/10 to-transparent",
+    "display_order": 9,
+    "is_active": true
+  }
+]

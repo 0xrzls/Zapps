@@ -1,0 +1,15 @@
+[
+  {
+    "id": "default-hero-banner",
+    "title": "Discover the Future of Web3",
+    "subtitle": "Explore decentralized applications powered by FHE technology",
+    "image_url": "/images/banners/hero-banner.jpg",
+    "cta_text": "Explore DApps",
+    "cta_link": "/dapps",
+    "cta_text_2": "Learn More",
+    "cta_link_2": "/learn",
+    "banner_type": "hero",
+    "display_order": 1,
+    "is_active": true
+  }
+]
